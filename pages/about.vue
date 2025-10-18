@@ -25,7 +25,7 @@
     	</div>
     	<div class="item primary-font">
     		<h4>Oasis</h4>
-    		<p>El peak el pop europeo, instipardo altamente en los Beatles!!.</p>
+    		<p>El peak el pop britanico, instipardo altamente en los Beatles!!.</p>
     	</div>
     </div>
 
