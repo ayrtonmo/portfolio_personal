@@ -10,7 +10,7 @@
 	<div class="content-container">
 		<div class="text-container primary-font">
 			<p class="sobre-mi-text">
-				Mi nombre es Ayrton Morrison, soy un estudiante de 3er anho de ingenieria civil en informatica en la Universidad de Magallanes. Me gusta mucho la programacion y el desarrollo de software, constantemente me enncuentro aprendiendo y mejorando mis habilidades.
+				Mi nombre es Ayrton Morrison, soy un estudiante de 3er año de Ingeniería Civil en Informática en la Universidad de Magallanes. Me gusta mucho la programación y el desarrollo de software, constantemente me encuentro aprendiendo y mejorando mis habilidades.
 			</p>
 		</div>
 
@@ -20,7 +20,7 @@
 
 		<div class="text-container primary-font">
 			<p class="sobre-mi-text">
-				Actualmente estoy enfocado en el desarrollo web, principalmente en frontend, utilizando tecnologias como Vue.js, Nuxt.js, y Bootstrap para crear aplicaciones web modernas y responsivas. Sin embargo, mis proyectos principales fueron realizados en <a href="https://es.wikipedia.org/wiki/C_%28lenguaje_de_programaci%C3%B3n%29" target="_blank" rel="noopener noreferrer">C</a> y <a href="https://es.wikipedia.org/wiki/Python" target="_blank" rel="noopener noreferrer">Python</a>. Mas adelante se podran observar algunos proyectos en los que he participado.
+				Actualmente estoy enfocado en el desarrollo web, principalmente en frontend, utilizando tecnologías como Vue.js, Nuxt.js, y Bootstrap para crear aplicaciones web modernas y responsivas. Sin embargo, mis proyectos principales fueron realizados en <a href="https://es.wikipedia.org/wiki/C_%28lenguaje_de_programaci%C3%B3n%29" target="_blank" rel="noopener noreferrer">C</a> y <a href="https://es.wikipedia.org/wiki/Python" target="_blank" rel="noopener noreferrer">Python</a>. Más adelante se podrán observar algunos proyectos en los que he participado.
 			</p>
 		</div>
 
@@ -32,12 +32,12 @@
 			<div class="item">
 				<a href="https://github.com/ayrvanmo/Fly" target="_blank" rel="noopener noreferrer"> Fly</a>
 				<br />
-				<p>Motor de busqueda de palabras clave dentro de directorios realizado en C.</p>
+				<p>Motor de búsqueda de palabras clave dentro de directorios realizado en C.</p>
 			</div>
 			<div class="item">
 				<a href="https://github.com/ayrvanmo/ForKing" target="_blank" rel="noopener noreferrer"> ForKing</a>
 				<br />
-				<p>Simulador de gestor de procesos desarrollado en C con algunas funcionalidaes en Python.</p>
+				<p>Simulador de gestor de procesos desarrollado en C con algunas funcionalidades en Python.</p>
 			</div>
 			<div class="item">
 				<a href="https://github.com/ayrvanmo/ugit" target="_blank" rel="noopener noreferrer"> Ugit </a>
@@ -47,7 +47,7 @@
 			<div class="item">
 				<a href="https://github.com/ayrvanmo/GrapeFruit" target="_blank" rel="noopener noreferrer"> GrapeFruit</a>
 				<br />
-				<p> Simulador simplificado de red social, implementando algoritmos de recomendacion.</p>
+				<p> Simulador simplificado de red social, implementando algoritmos de recomendación.</p>
 			</div>
 		</div>
 
